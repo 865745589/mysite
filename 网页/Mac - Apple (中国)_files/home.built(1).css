@@ -1,0 +1,562 @@
+.section-built-in-apps .image-bia-imovie {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_imovie_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-imovie {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_imovie_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-imovie {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_imovie_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-imovie {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_imovie_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-imovie {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_imovie_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-imovie {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_imovie_small_2x.jpg")
+    }
+}
+
+.section-built-in-apps .image-bia-keynote {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_keynote_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-keynote {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_keynote_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-keynote {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_keynote_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-keynote {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_keynote_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-keynote {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_keynote_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-keynote {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_keynote_small_2x.jpg")
+    }
+}
+
+.section-built-in-apps .image-bia-numbers {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_numbers_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-numbers {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_numbers_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-numbers {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_numbers_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-numbers {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_numbers_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-numbers {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_numbers_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-numbers {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_numbers_small_2x.jpg")
+    }
+}
+
+.section-built-in-apps .image-bia-pages {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_pages_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-pages {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_pages_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-pages {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_pages_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-pages {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_pages_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-pages {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_pages_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-pages {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_pages_small_2x.jpg")
+    }
+}
+
+.section-built-in-apps .image-bia-photos {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_photos_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-photos {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_photos_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-photos {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_photos_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-photos {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_photos_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-photos {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_photos_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-photos {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_photos_small_2x.jpg")
+    }
+}
+
+.section-compare .image-compare {
+    background-image: url("https://images.apple.com/cn/mac/home/images/compare_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-compare .image-compare {
+        background-image: url("https://images.apple.com/cn/mac/home/images/compare_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-compare .image-compare {
+        background-image: url("https://images.apple.com/cn/mac/home/images/compare_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-compare .image-compare {
+        background-image: url("https://images.apple.com/cn/mac/home/images/compare_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-compare .image-compare {
+        background-image: url("https://images.apple.com/cn/mac/home/images/compare_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-compare .image-compare {
+        background-image: url("https://images.apple.com/cn/mac/home/images/compare_small_2x.jpg")
+    }
+}
+
+.product-macbookpro .image-macbookpro {
+    background-image: url("https://images.apple.com/cn/mac/home/images/macbookpro_tb_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .product-macbookpro .image-macbookpro {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macbookpro_tb_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .product-macbookpro .image-macbookpro {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macbookpro_tb_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .product-macbookpro .image-macbookpro {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macbookpro_tb_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .product-macbookpro .image-macbookpro {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macbookpro_tb_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .product-macbookpro .image-macbookpro {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macbookpro_tb_small_2x.jpg")
+    }
+}
+
+.section-macos-and-icloud .image-macos-finder-icloud {
+    background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_small_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_large.jpg");
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 1068px) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 735px) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-macos-and-icloud .image-macos-finder-icloud {
+        background-image: url("https://images.apple.com/cn/mac/home/images/macos_icloud_small_2x.jpg")
+    }
+}
+
+.section-built-in-apps .image-bia-garageband {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_garageband_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-garageband {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_garageband_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-garageband {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_garageband_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-garageband {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_garageband_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-garageband {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_garageband_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-garageband {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_garageband_small_2x.jpg")
+    }
+}
+
+.section-built-in-apps .image-bia-safari {
+    width: 556px;
+    height: 313px;
+    background-size: 556px 313px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.apple.com/cn/mac/home/images/bia_safari_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-safari {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_safari_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-built-in-apps .image-bia-safari {
+        width: 434px;
+        height: 244px;
+        background-size: 434px 244px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_safari_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-safari {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_safari_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-built-in-apps .image-bia-safari {
+        width: 243px;
+        height: 137px;
+        background-size: 243px 137px;
+        background-repeat: no-repeat;
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_safari_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-built-in-apps .image-bia-safari {
+        background-image: url("https://images.apple.com/cn/mac/home/images/bia_safari_small_2x.jpg")
+    }
+}
+
+.section-macos .section-content .row {
+    width: 100%;
+}
+
+.section-beats-promo .image-background {
+    background-image: url("https://images.apple.com/cn/mac/home/images/mac_collegebeats_lockup_banner_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-beats-promo .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_collegebeats_lockup_banner_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-beats-promo .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_collegebeats_lockup_banner_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-beats-promo .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_collegebeats_lockup_banner_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-beats-promo .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_collegebeats_lockup_banner_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-beats-promo .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_collegebeats_lockup_banner_small_2x.jpg")
+    }
+}
+.section-beats-last-chance .image-background {
+    background-image: url("https://images.apple.com/cn/mac/home/images/mac_lastchance_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .section-beats-last-chance .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_lastchance_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-beats-last-chance .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_lastchance_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-beats-last-chance .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_lastchance_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .section-beats-last-chance .image-background {
+    	width: 736px;
+        height: 470px;
+        background-size: 736px 470px;
+        background-repeat: no-repeat;
+        width: 100%;
+        background-position: center center;
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_lastchance_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .section-beats-last-chance .image-background {
+        background-image: url("https://images.apple.com/cn/mac/home/images/mac_lastchance_small_2x.jpg")
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 735px) {
+    .section-beats-last-chance .typography-section-headline {
+         padding-left: 0.4em;
+    }
+    
+    .extra-condition-for-gc{ line-height:1.4;}
+   
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-holiday-gift-guide .holiday-headline {
+        width: 270px;
+    }
+}
+@media only screen and (max-width: 735px) {
+    .section-holiday-gift-guide .holiday-headline {
+        width: 100%;
+    }
+}
+

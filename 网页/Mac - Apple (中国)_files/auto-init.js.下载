@@ -1,0 +1,2 @@
+"use strict";(function(){try{var d=require("@marcom/ac-analytics");d.createBasicObserverSuite()
+}catch(c){}}());

@@ -1,0 +1,78 @@
+_::selection,
+.section-headline:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+
+_::selection,
+.myriad_top:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+
+
+
+_::selection,
+.section-ipad-apps .more {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+
+
+_::selection,
+.section-ipad-apps .fp-ipad-apps-copy:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}	
+
+
+
+_::selection,
+.section-ios10 .ios10-copy:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}	
+
+
+
+_::selection,
+.section-ios10 .ios10-copy:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}	
+
+
+_::selection,
+p:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;}
+
+
+_::selection,
+a {
+		font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;}
+
+
+.page-home .section-ipad-pro .fp-hero-moreblock a:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;}
+		
+.page-home .section-ipad-pencil a:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;}
+.page-home .section-ipad-fun a:lang(zh-CN) {
+		font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;}
+
+
+
+
+
+@media only screen and (max-width: 735px) {
+    .section-beats-last-chance .section-headline {
+         padding-left: 0.4em;
+         line-height: 1.28595;
+    }
+    
+    .extra-condition-for-gc{ line-height:1.4;}
+   
+}
+
+
+
+
+
+.section-ipad-fun .tagline-reduced {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
