@@ -3,7 +3,7 @@
     color: #ffffff;
     line-height: 34px;
     text-align: center;
-    text-decoration: none;
+
 
 }
 
@@ -14,4 +14,29 @@
     text-align: center;
     text-decoration: none;
 
+}
+
+        .row a{
+            text-decoration: none;
+        }
+        .row a:hover{
+            text-decoration: none;
+
+
+        }
+        .row a:active{
+            text-decoration: none;
+        }
+.aa2 {
+    font-size: 18px;
+    line-height: 82px;
+    text-align: center;
+    margin-left: 240px;
+
+
+}
+.aaBanNa {
+    line-height: 80px;
+    text-align: center;
+    margin-left: 70px;
 }
