@@ -1,0 +1,104 @@
+a {
+    font-size: 48px;
+    color: aqua;
+    text-decoration: none;
+
+
+
+}
+
+a :link {
+    text-decoration: none;
+}
+
+a :active {
+    text-decoration: none;
+}
+
+a :visited {
+    text-decoration: none;
+}
+
+.menu {
+    width: 200px;
+    height: 100px;
+    background: #009dff;
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
+.menutext {
+    position: relative;
+    top: 20px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.menu:hover {
+    color: antiquewhite;
+    background: #000000;
+    font-size: 110%;
+
+
+}
+
+.menu:active {
+    color: #fff000;
+    background: #000fff;
+    font-size: 90%;
+
+
+}
+
+.menutext:hover {
+    animation: dongHua 1s 1;
+}
+
+@keyframes dongHua {
+    from {
+        top: 0;
+
+    }
+    to {
+        top: -100px;
+    }
+}
+
+.nenuDown {
+    height: 100px;
+    color: #ff00ce;
+    position: relative;
+    top: 20px;
+
+}
+
+.haha {
+    width: 400px;
+    height: 400px;
+    background: red;
+    display: inline-block;
+}
+
+.haha1 {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin-top: 25%;
+    margin-left: 25%;
+
+
+}
+
+.haha11 {
+    width: 100px;
+    height: 100px;
+    background: #f803ef;
+    margin-left: 25%;
+
+
+
+
+
+}

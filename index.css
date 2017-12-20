@@ -1,0 +1,47 @@
+<style>
+    #top {
+        width: auto;
+        height: 40px;
+        background: #6c6d6f;
+        margin-top: 0;
+
+    }
+
+    #top1 {
+        width: 1920px;
+        height: 44px;
+        background: #000000;
+        margin-top: 0;
+
+
+
+    }
+
+    #caidan {
+        width: 64px;
+        height: 44px;
+        background: #000000;
+        margin-left: 80px;
+        line-height: 44px;
+        text-align: center;
+        overflow: hidden;
+        font-size: 12px;
+
+        display: inline-block;
+    }
+
+    #tupian {
+        width: 931px;
+        height: 582px;
+        margin-left: 12px;
+        margin-top: 12px;
+        display: inline-block;
+
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+</style>
