@@ -29,9 +29,8 @@
         }
 .aa2 {
     font-size: 18px;
-    line-height: 82px;
+    line-height: 50px;
     text-align: center;
-    margin-left: 240px;
 
 
 }
@@ -39,4 +38,78 @@
     line-height: 80px;
     text-align: center;
     margin-left: 70px;
+}
+.siJuHua{
+    height: 30px;
+    display:inline-block;
+
+}
+
+.siJuHua1{
+    height: 30px;
+    display:inline-block;
+    margin-left:  -3px;
+        width: 237px;
+    background: black;
+
+}
+.siJuHua2 {
+    display:inline-block;
+    margin-left: 16px;
+        width: 237px;
+    height: 30px;
+    background: black;
+}
+
+.siJuHua3 {
+    display: inline-block;
+    margin-left: 17px;
+        width: 237px;
+    height: 30px;
+    background: black;
+}
+
+.siJuHua4 {
+    display: inline-block;
+    margin-left: 16px;
+    width: 237px;
+    height: 30px;
+    background: black;
+}
+
+.bland {
+    width: 100%;
+    height: 170px;
+    display: inline-block;
+}
+
+.bland1 {
+
+    margin-left: 480px;
+    display: inline-block;
+}
+
+.bland2 {
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.bland3 {
+    margin-left: 40px;
+    display: inline-block;
+}
+
+.bland4 {
+    margin-left:40px;
+    display: inline-block;
+}
+
+.bland11{
+width: 1px;
+height: 100px;
+background: black;
+display: inline-block;
+
+
 }
